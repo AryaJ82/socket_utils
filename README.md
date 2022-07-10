@@ -20,4 +20,4 @@ Inputs to \<ServerClient\> should consist of:
 ## Demo
 See below for demonstration of these two objects:
 
-![](https://file%2B.vscode-resource.vscode-cdn.net/home/littlelobsterg/Projects/socket_utils/Resources/server%20demo.gif?version%3D1657147515846)
+![](Resources/server%20demo.gif)
